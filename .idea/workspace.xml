@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="90a773fe-76ec-47c0-86d8-f18a073971fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XvdFvK9uLv6vcCy3eHt6yjnv9W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite/polls/templates/layouts" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mahmoud\Desktop\new\mysite\blog" />
+      <recent name="C:\Users\mahmoud\Desktop\new\mysite" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mahmoud\Desktop\new\mysite\polls\templates\layouts" />
+      <recent name="C:\Users\mahmoud\Desktop\new\mysite\polls\templates\students" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="90a773fe-76ec-47c0-86d8-f18a073971fe" name="Default Changelist" comment="" />
+      <created>1581930401786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581930401786</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="183" key="#Notifications" timestamp="1581932865884">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Notifications/0.0.1920.1050@0.0.1920.1050" timestamp="1581932865884" />
+    <state x="552" y="183" key="#Vim_Emulation" timestamp="1582036759064">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="183" key="#Vim_Emulation/0.0.1920.1050@0.0.1920.1050" timestamp="1582036759064" />
+    <state x="1076" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582097859902">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1076" y="286" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1582097859902" />
+    <state x="761" y="198" key="SettingsEditor" timestamp="1582105066557">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="761" y="198" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1582105066557" />
+    <state x="636" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1581932334863">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="636" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1581932334863" />
+    <state x="97" y="0" width="1441" height="1033" key="dock-window-1" timestamp="1581933348498">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="97" y="0" width="1441" height="1033" key="dock-window-1/0.0.1920.1050@0.0.1920.1050" timestamp="1581933348498" />
+    <state x="647" y="99" width="626" height="852" key="find.popup" timestamp="1582036991792">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="647" y="99" width="626" height="852" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1582036991792" />
+  </component>
+</project>
